@@ -9,6 +9,12 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
 
 ### R1D2
 
+### R1D11
+D11 #100DaysOfCode Learning 
+@kubernetesio
+Today no coding only watching lession from udacity 
+
+
 ### R1D12
 D12 #100DaysOfCode 
 build a responsive profile and your startup website using HTML and CSS through 
