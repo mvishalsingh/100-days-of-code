@@ -24,3 +24,7 @@ Learn to code http://honoris.net/learntocode/
 D13 #100DaysOfCode 
 build a responsive profile and your startup website using HTML and CSS through 
 CSS basics https://learn.lewagon.com/c/960/b/323
+
+i decided to be active on slack for 100daysOfcode ,meduim handle and dev community app
+https://www.reddit.com/r/learnprogramming/wiki/faq
+https://levelup.gitconnected.com/how-to-become-a-true-keyboard-warrior-and-stop-using-your-mouse-a87cd29c5801
