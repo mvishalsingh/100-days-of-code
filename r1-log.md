@@ -19,3 +19,8 @@ Today no coding only watching lession from udacity
 D12 #100DaysOfCode 
 build a responsive profile and your startup website using HTML and CSS through 
 Learn to code http://honoris.net/learntocode/
+
+### R1D13
+D13 #100DaysOfCode 
+build a responsive profile and your startup website using HTML and CSS through 
+CSS basics https://learn.lewagon.com/c/960/b/323
