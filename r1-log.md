@@ -28,3 +28,14 @@ CSS basics https://learn.lewagon.com/c/960/b/323
 i decided to be active on slack for 100daysOfcode ,meduim handle and dev community app
 https://www.reddit.com/r/learnprogramming/wiki/faq
 https://levelup.gitconnected.com/how-to-become-a-true-keyboard-warrior-and-stop-using-your-mouse-a87cd29c5801
+
+### R1D14
+D14 #100DaysOfCode 
+learnt about font using css
+CSS basics https://learn.lewagon.com/c/960/b/293 
+also did intro to R thanks to 
+@DataCamp
+ freeweek
+
+Realized the most imp thing is to start even if you just assign variable or print hello world! take small steps read, docs,see ex
+#CodeNewbie #css
