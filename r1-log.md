@@ -42,3 +42,7 @@ Realized the most imp thing is to start even if you just assign variable or prin
 
 ### R1D15
 https://campus.datacamp.com/courses/free-introduction-to-r/chapter-2-vectors-2?ex=3
+
+### R1D17
+D17 #100DaysOfCode 
+ finished R intro now moving to python intro..
