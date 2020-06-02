@@ -46,3 +46,6 @@ https://campus.datacamp.com/courses/free-introduction-to-r/chapter-2-vectors-2?e
 ### R1D17
 D17 #100DaysOfCode 
  finished R intro now moving to python intro..
+ 
+ ### R1D19
+ https://infytq.infosys.com/viewer/lex_auth_0125409616243425281061/lex_auth_0124897255173980160
